@@ -1,2 +1,2 @@
 # keyboardrunner
-A simple typing speed game whipped up in a day. Fully CLI-based.
+a simple typing speed game whipped up in a day. fully CLI-based.
